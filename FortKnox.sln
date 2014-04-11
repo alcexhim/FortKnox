@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortKnox", "FortKnox\FortKnox.csproj", "{B41F4245-D4AD-44C6-8FFD-665D34E9B097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortKnox.TestProject", "FortKnox.TestProject\FortKnox.TestProject.csproj", "{BC1E3F41-05C1-4558-84B2-2D1DB81978BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41F4245-D4AD-44C6-8FFD-665D34E9B097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F4245-D4AD-44C6-8FFD-665D34E9B097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41F4245-D4AD-44C6-8FFD-665D34E9B097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41F4245-D4AD-44C6-8FFD-665D34E9B097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E3F41-05C1-4558-84B2-2D1DB81978BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E3F41-05C1-4558-84B2-2D1DB81978BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E3F41-05C1-4558-84B2-2D1DB81978BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E3F41-05C1-4558-84B2-2D1DB81978BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
